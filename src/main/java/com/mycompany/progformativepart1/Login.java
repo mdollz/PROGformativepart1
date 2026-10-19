@@ -98,7 +98,7 @@ public class Login {
 
         if (loginUser(enteredUsername, enteredPassword)) {
             return "Welcome " + firstName + ", " + lastName
-                    + " it is great to see you again.";
+                    + " it's great to see you again.";
         }
 
         return "Username or password incorrect, please try again.";
