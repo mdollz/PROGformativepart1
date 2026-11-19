@@ -34,6 +34,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>25</maven.compiler.release>
-        <exec.mainClass>com.mycompany.progformativepart1.PROGformativepart1</exec.mainClass>
+        <exec.mainClass>com.mycompany.part2prog.QuickChat</exec.mainClass>
     </properties>
 </project>
